@@ -24,13 +24,12 @@ Welcome to my GitHub page! I am João Pedro Castro, and I am currently at the mi
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=theortsac&show_icons=true&hide_border=true" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<br />
-<code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="8%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c7a9e3c69a2af799d9ba8693819794718e194956/icons/file_type_gamemaker2.svg">
+	<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+	<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+	<code><img width="7%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
+	<code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+	<br/>
+	<code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+	<code><img width="8%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c7a9e3c69a2af799d9ba8693819794718e194956/icons/file_type_gamemaker2.svg">
 </code>
 </p>
