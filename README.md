@@ -29,6 +29,7 @@ Welcome to my GitHub page! I am João Pedro Castro, and I am currently at the mi
 	<code><img width="7%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
 	<code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 	<br>
+	<br>
 	<code><img width="8%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c7a9e3c69a2af799d9ba8693819794718e194956/icons/file_type_gamemaker2.svg">
 </code>
 </p>
