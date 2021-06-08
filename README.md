@@ -5,5 +5,7 @@
 🎮 - I started playing tons of video games, and I just decided to get back at creating games, I created lots of games, and the most part of them was really fun, but my programming was really bad.  
 💻 - Then I deciced as a 12 years old to get good at programming, and started learning python, and program a lot!  
 Now I am 13 and decided to keep going on my programming journey! If you want to get in contact with me, just send a email to: _**jpgcdc@gmail.com**_  
-  
-![](snoopy.gif)
+
+<p align="center">
+  ![](snoopy.gif)
+<p>
