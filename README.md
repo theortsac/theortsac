@@ -1,11 +1,39 @@
-## **Hello!**  
-👋 - My name is João Pedro Castro, but you can call me TheOrtsac!  
-🇧🇷 - I am a person from Brazil, that really likes programming!  
-🧒 - I started programming as a little 9 years old kid, back then I had only one wish in my life: _Make games_. Then I downloaded [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker), and started learning GML (or GameMaker Language), it was really fun, but when I reached 10 I just wanted to do other things in my life, so I stopped programming.  
-🎮 - I started playing tons of video games, and I just decided to get back at creating games, I created lots of games, and the most part of them was really fun, but my programming was really bad.  
-💻 - Then I deciced as a 12 years old to get good at programming, and started learning python, and program a lot!  
-Now I am 13 and decided to keep going on my programming journey! If you want to get in contact with me, just send a email to: _**jpgcdc@gmail.com**_  
+### Hi there 👋 
+### This is João Pedro!
 
-<p align="center">
-  <img src="giphy.gif"/>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theortsac)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-castro-24787520b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jpgcdc@gmail.com)
+
+Welcome o my GitHub page! I am João Pedro Castro, and I am currently at the middle school at Brazil!  
+
+<img align="right" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fcode-gif-generator&psig=AOvVaw2NdHO8g_1JgpReeHbJgO4F&ust=1623264215517000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDL7cnYiPECFQAAAAAdAAAAABAD" width="50%" height="auto" />
+
+
+#### 🌱 Things I am currently working on: 
+- Ending School 😓
+- Taking some Udemy courses about web development
+- Trying to [create my own interprise](https://tipz.stream)!
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Running everyday to exercise
+- Get a job 😎 (HIRE ME PLEASE)
+
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=theortsac&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
