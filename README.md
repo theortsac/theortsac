@@ -7,5 +7,5 @@
 Now I am 13 and decided to keep going on my programming journey! If you want to get in contact with me, just send a email to: _**jpgcdc@gmail.com**_  
 
 <p align="center">
-  <img src="snoopy.gif"/>
+  <img src="giphy.gif"/>
 </p>
