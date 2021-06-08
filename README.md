@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-castro-24787520b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jpgcdc@gmail.com)
 
-Welcome to my GitHub page! I am João Pedro Castro, and I am currently at the middle school at Brazil, and I have 13 years of experience at life! (And started with programming with 9 😄)
+Welcome to my GitHub page! I am João Pedro Castro, and I am currently at the middle school at Brazil, and I have 13 years of experience at life! (And started with programming with 9 years old)  😃
 
 <img align="right" alt="img" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif" width="50%" height="auto" />
 
