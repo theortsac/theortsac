@@ -6,6 +6,6 @@
 💻 - Then I deciced as a 12 years old to get good at programming, and started learning python, and program a lot!  
 Now I am 13 and decided to keep going on my programming journey! If you want to get in contact with me, just send a email to: _**jpgcdc@gmail.com**_  
 
-<p align="center">
+<div style="text-align:center">
   ![](snoopy.gif)
-<p>
+</div>
