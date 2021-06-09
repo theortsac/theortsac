@@ -1,5 +1,5 @@
-### Hi there 👋 
-### This is João Pedro!
+### Hello there 👋 
+### Welcome to João Pedro Github!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theortsac)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-castro-24787520b/)
@@ -10,12 +10,12 @@ Welcome to my GitHub page! I am João Pedro Castro, and I am currently at the mi
 <img align="right" alt="img" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
+#### 🌱 Things I am doing: 
 - Ending School 😓
 - Taking some Udemy courses about web development
 - Trying to [create my own interprise](https://tipz.stream)!
 
-#### :muscle: Things I am challenging myself with:
+#### 🤷 Things I try to do:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Running everyday to exercise
