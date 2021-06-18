@@ -9,17 +9,21 @@ Welcome to my GitHub page! I am currently at the middle school at Brazil, and I 
 
 <img align="right" alt="img" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif" width="50%" height="auto" />
 
+#### 🚀 Dreams:
+- Enter MIT 🎓
+- Work at Google 😎
+- Found a successful startup 🐱‍💻
 
 #### 🌱 Things I am doing: 
 - Ending School 😓
 - Taking some Udemy courses about web development
 - Trying to [create my own interprise](https://tipz.stream)!
+- Doing Olympiads!
 
 #### 🤷 Things I try to do:
 - Wake up earlier to make good use of the day
 - Code at least 4 hours a day
 - Run everyday to exercise
-- Get a job 😎 (HIRE ME PLEASE)
 
 #### :computer: Programming languages and tools: 
 <p>
