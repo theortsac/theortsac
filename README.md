@@ -20,11 +20,6 @@ Welcome to my GitHub page! I am currently at the middle school at Brazil, and I 
 - Trying to [create my own interprise](https://tipz.stream)!
 - Doing Olympiads
 
-#### 🤷 Things I try to do:
-- Wake up earlier to make good use of the day
-- Code at least 4 hours a day
-- Run everyday to exercise
-
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=theortsac&show_icons=true&hide_border=true" />
