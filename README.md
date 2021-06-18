@@ -16,9 +16,9 @@ Welcome to my GitHub page! I am currently at the middle school at Brazil, and I 
 
 #### 🌱 Things I am doing: 
 - Ending School 😓
-- Taking some Udemy courses about web development
-- Trying to [create my own interprise](https://tipz.stream)!
-- Doing Olympiads
+- Taking some Udemy courses about web development 📚
+- Trying to [create my own interprise](https://tipz.stream) 👌
+- Doing Olympiads 🏆
 
 #### :computer: Programming languages and tools: 
 <p>
