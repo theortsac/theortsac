@@ -12,7 +12,7 @@ Welcome to my GitHub page! I am currently at the middle school at Brazil, and I 
 #### 🚀 Dreams:
 - Enter MIT 🎓
 - Work at Google 😎
-- Found a successful startup 🐱‍💻
+- Found a successful startup 💻
 
 #### 🌱 Things I am doing: 
 - Ending School 😓
