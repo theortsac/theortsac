@@ -12,12 +12,12 @@ Welcome to my GitHub page! I am currently at the middle school at Brazil, and I 
 #### 🚀 Dreams:
 - Enter MIT 🎓
 - Work at Google 😎
-- Found a successful startup 💻
+- Found a successful startup 💵
 
 #### 🌱 Things I am doing: 
 - Ending School 😓
 - Taking some Udemy courses about web development 📚
-- Trying to [create my own interprise](https://tipz.stream) 👌
+- [Creating an open-source project](https://tipz.stream) 🎯
 - Doing Olympiads 🏆
 
 #### :computer: Programming languages and tools: 
