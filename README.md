@@ -30,4 +30,6 @@ Welcome to my GitHub page! I am currently at the middle school at Brazil, and I 
 	<br>
 	<code><img width="7%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c7a9e3c69a2af799d9ba8693819794718e194956/icons/file_type_gamemaker2.svg">
 </code>
+	<code><img width="6%" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+</code>
 </p>
