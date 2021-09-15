@@ -2,7 +2,6 @@
 ### My name is João Pedro!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theortsac)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-castro-24787520b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jpgcdc@gmail.com)
 
 Welcome to my GitHub page! I am currently at the middle school at Brazil, and I have 12 years of experience at life! (And started with programming with 9 years old)  😃
