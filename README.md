@@ -15,8 +15,8 @@ Welcome to my GitHub page! I am currently at the middle school at Brazil, and I 
 
 #### 🌱 Things I am doing: 
 - Ending School 😓
-- Taking some Udemy courses about web development 📚
-- Creating an [open-source project](https://tipz.stream) 🎯
+- Learning Smart Contracts and Web3 📚  
+- Trying to create my own projects 🎯
 - Doing Olympiads 🏆
 
 #### :computer: Programming languages and tools: 
