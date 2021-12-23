@@ -31,4 +31,6 @@ Welcome to my GitHub page! I am currently at the middle school at Brazil, and I 
 </code>
 	<code><img width="6%" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
 </code>
+	<code><img width="7%" src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99">
+</code>
 </p>
