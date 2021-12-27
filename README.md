@@ -3,6 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theortsac)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jpgcdc@gmail.com)
+[![Twitter](https://img.shields.io/twitter/follow/OrtsacThe?label=Twitter)](https://twitter.com/OrtsacThe)
 
 Welcome to my GitHub page! I am currently at the middle school at Brazil, and I have 12 years of experience at life! (And started with programming with 9 years old)  😃
 
