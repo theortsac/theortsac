@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/OrtsacThe?label=Twitter)](https://twitter.com/OrtsacThe)
 [![Website](https://img.shields.io/badge/theortsac.com-online-sucess)](https://theortsac.com)
 
-Welcome to my GitHub page! I am currently at the middle school at Brazil, and I have 12 years of experience at life! (And started with programming with 9 years old)  😃
+Welcome to my GitHub page! I am currently at the middle school at Brazil, and I have 13 years of experience at life! (And started with programming with 9 years old)  😃
 
 <img align="right" alt="img" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif" width="50%" height="auto" />
 
