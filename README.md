@@ -8,7 +8,7 @@
 
 Welcome to my GitHub page! I am currently at the middle school at Brazil, and I have 13 years of experience at life! (And started with programming with 9 years old)  😃
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" height="auto" />
 
 #### 🚀 Dreams:
 - Enter MIT 🎓
