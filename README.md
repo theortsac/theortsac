@@ -6,8 +6,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/OrtsacThe?label=Twitter)](https://twitter.com/OrtsacThe)
 [![Website](https://img.shields.io/badge/theortsac.com-online-sucess)](https://theortsac.com)
 
-Welcome to my GitHub page! I am currently at the middle school at Brazil, and I have 13 years of experience at life! (And started with programming with 9 years old)  😃
-
+Welcome to my GitHub page! I am a brazilian developer with 4 years of experience in programming.
 <img align="right" alt="img" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" height="auto" />
 
 #### 🚀 Dreams:
