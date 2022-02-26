@@ -10,7 +10,7 @@ Welcome to my GitHub page! I am a brazilian developer with 4 years of experience
 <img align="right" alt="img" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" height="auto" />
 
 #### 🚀 Dreams:
-- Enter MIT 🎓
+- Be recognized by who I admire 🤝
 - Help the world in a Web3 way 😎
 - Found a successful startup 💵
 
