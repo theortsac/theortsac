@@ -16,8 +16,8 @@ Welcome to my GitHub page! I am a brazilian developer with 4 years of experience
 
 #### 🌱 Things I am doing: 
 - Ending School 😓
-- Learning Smart Contracts and Web3 📚  
-- Trying to create my own projects 🎯
+- Studying programming 📚  
+- Making personal projects 🎯
 - Doing Olympiads 🏆
 
 #### :computer: Programming languages and tools: 
