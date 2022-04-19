@@ -24,7 +24,7 @@ Welcome to my GitHub page! I am a brazilian developer with 4 years of experience
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=theortsac&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" />
 	<code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"></code>
-	<code><img width="7%" src="https://image.flaticon.com/icons/png/512/732/732190.png"></code>
+	<code><img width="7%" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 	<code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
 	<code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 	<br>
