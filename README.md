@@ -2,7 +2,7 @@
 ### My name is João Pedro!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theortsac)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jpgcdc@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:john@skill2token.com)
 [![Twitter](https://img.shields.io/twitter/follow/OrtsacThe?label=Twitter)](https://twitter.com/OrtsacThe)
 [![Website](https://img.shields.io/badge/theortsac.com-online-sucess)](https://theortsac.com)
 
