@@ -33,6 +33,6 @@ Welcome to my GitHub page! I am a brazilian developer with 4 years of experience
 </code>
 	<code><img width="6%" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
 </code>
-	<code><img width="7%" src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99">
+	<code><img width="7%" src="https://spacenil.com/tutorial/public/uploads/categories/categories_1622741308.png">
 </code>
 </p>
