@@ -19,7 +19,12 @@ Welcome to my GitHub page! I am a brazilian developer with 4 years of experience
 - Ending School 😓
 - Studying programming 📚  
 - Making personal projects 🎯
-- Doing Olympiads 🏆
+- Doing Olympiads 🥇
+
+#### 🏆 My Achievements:
+- Sponsored to ETH-Denver by PadawanDAO ✨
+- 7th place nationally on the Brazilian Olympiad in Informatics 🇧🇷
+- Buying my stuff with money from coding 💻
 
 #### :computer: Programming languages and tools: 
 <p>
