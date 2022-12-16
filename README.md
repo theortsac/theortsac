@@ -8,7 +8,7 @@
 
 Welcome to my GitHub page! I am a brazilian developer with 4 years of experience in programming. I'm currently searching for opportunities in tech, if you want to reach out feel free to contact me by [Email](mailto:hey@ortsac.me) or [Twitter](twitter.com/ortsacthe) and I will answer as soon as possible.  
 
-<img align="right" alt="img" src="https://s3.amazonaws.com/codementor_content/2016-Oct/pikachu.gif" width="50%"/>
+<img align="right" alt="img" src="https://i.pinimg.com/originals/90/ff/6f/90ff6fe1fa93ee8abb993fbcdf80b7a8.gif" width="50%"/>
 
 #### 🚀 Dreams:
 - Be recognized by who I admire 🤝
@@ -23,7 +23,7 @@ Welcome to my GitHub page! I am a brazilian developer with 4 years of experience
 
 #### 🏆 My Achievements:
 - Sponsored to ETH-Denver by PadawanDAO ✨
-- 7th place nationally on the Brazilian Olympiad in Informatics 🇧🇷
+- Gold on the Brazilian Olympiad in Informatics 🇧🇷
 - Buying my stuff with money from coding 💻
 
 #### :computer: Programming languages and tools: 
