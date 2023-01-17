@@ -35,10 +35,8 @@ Welcome to my GitHub page! I am a brazilian developer with 4 years of experience
 	<code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
 	<br>
 	<code><img width="7%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-	<code><img width="7%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c7a9e3c69a2af799d9ba8693819794718e194956/icons/file_type_gamemaker2.svg">
-</code>
-	<code><img width="6%" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-</code>
-	<code><img width="7%" src="https://spacenil.com/tutorial/public/uploads/categories/categories_1622741308.png">
+	<code><img width="7%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c7a9e3c69a2af799d9ba8693819794718e194956/icons/file_type_gamemaker2.svg"></code>
+	<code><img width="6%" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
+	<code><img width="7%" src="https://spacenil.com/tutorial/public/uploads/categories/categories_1622741308.png"></code>
 </code>
 </p>
