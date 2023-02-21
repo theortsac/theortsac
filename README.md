@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theortsac)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hey@ortsac.me)
-[![Twitter](https://img.shields.io/twitter/follow/OrtsacThe?label=Twitter)](https://twitter.com/OrtsacThe)
+[![Twitter](https://img.shields.io/twitter/follow/OrtsacThe?label=Twitter)](https://twitter.com/ortsacme)
 [![Website](https://img.shields.io/badge/ortsac.me-online-sucess)](https://ortsac.me/)
 
 Welcome to my GitHub page! I am a brazilian developer with 4 years of experience in programming. I'm currently searching for opportunities in tech, if you want to reach out feel free to contact me by [Email](mailto:hey@ortsac.me) or [Twitter](twitter.com/ortsacthe) and I will answer as soon as possible.  
