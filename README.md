@@ -11,18 +11,17 @@ Welcome to my GitHub page! I am a brazilian developer with 4 years of experience
 
 #### 🚀 Dreams:
 - Be recognized by who I admire 🤝
-- Help the world in a Web3 way 😎
+- Get a gold medal at IOI 🏆
 - Found a successful startup 💵
 
 #### 🌱 Things I am doing: 
-- Ending School 😓
-- Studying programming 📚  
-- Making personal projects 🎯
-- Doing Olympiads 🥇
+- Making a business 💼
+- Studying competitive programming 📚  
+- Content creator for [NOIC](https://noic.com.br/) ✍️
 
 #### 🏆 My Achievements:
 - Sponsored to ETH-Denver by PadawanDAO ✨
-- Gold on the Brazilian Olympiad in Informatics 🇧🇷
+- Gold at the Brazilian Olympiad in Informatics 🇧🇷
 - Buying my stuff with money from coding 💻
 
 #### :computer: Programming languages and tools: 
