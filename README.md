@@ -1,28 +1,7 @@
 ### Hello there 👋 
 ### My name is João Pedro!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theortsac)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hey@ortsac.me)
-[![Website](https://img.shields.io/badge/ortsac.me-online-sucess)](https://ortsac.me/)
-
-Welcome to my GitHub page! I am a 15yr Brazilian developer with 5 years of experience in programming. I'm currently looking for opportunities in tech, if you'd like to contact me by [Email](mailto:hey@ortsac.me) and I will answer as soon as possible.  
-
-<img align="right" alt="img" src="https://i.pinimg.com/originals/90/ff/6f/90ff6fe1fa93ee8abb993fbcdf80b7a8.gif" width="50%"/>
-
-#### 🚀 Dreams:
-- Be recognized by who I admire 🤝
-- Get a gold medal at IOI 🏆
-- Found a successful startup 💵
-
-#### 🌱 Things I am doing: 
-- Creating a business 💼
-- Studying competitive programming 📚  
-- Content creator for [NOIC](https://noic.com.br/) ✍️
-
-#### 🏆 My Achievements:
-- Sponsored to ETH-Denver by PadawanDAO ✨
-- Gold at the Brazilian Olympiad in Informatics 🇧🇷
-- Buying my stuff with money from coding 💻
+Welcome to my GitHub! My main hobby at the moment is competitive programming, you can check me out at [codeforces](https://codeforces.com/profile/ortsac).
 
 #### :computer: Programming languages and tools: 
 <p>
